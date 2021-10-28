@@ -63,4 +63,6 @@ public class ScoreController {
     return objScoreService.delScore(id);
   }
 
+  
+  //Cambio para  visualizar 
 }
